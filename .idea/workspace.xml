@@ -31,16 +31,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ЦИКЛ FOR" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\twocu\OneDrive\Документы\GitHub\ludmila\ЦИКЛ FOR" />
       <recent name="C:\Users\twocu\OneDrive\Документы\GitHub\ludmila" />
       <recent name="C:\Users\twocu\OneDrive\Рабочий стол" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\twocu\OneDrive\Документы\GitHub\ludmila\ЦИКЛ FOR" />
+    </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.1 задание с решуегэ">
     <configuration name="неравенство треугольника 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.Факториал">
+    <configuration name="Простые числа до 1000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <module name="ludmila" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +57,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЦИКЛ FOR" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/неравенство треугольника 2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЦИКЛ FOR/Простые числа до 1000.py" />
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +116,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="1 задание с решуегэ" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Простое число" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <module name="ludmila" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +128,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12 Задание. СТРОКИ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12 Задание. СТРОКИ/1 задание с решуегэ.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ЦИКЛ FOR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ЦИКЛ FOR/Простое число.py" />
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +149,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="1.PY" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Факториал" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <module name="ludmila" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +161,19 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/СТРОКИ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/СТРОКИ/1.PY" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\twocu\OneDrive\Документы\GitHub\ludmila\ЦИКЛ FOR\Факториал.py" />
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +184,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.1 задание с решуегэ" />
         <item itemvalue="Python.1.PY" />
         <item itemvalue="Python.неравенство треугольника" />
         <item itemvalue="Python.неравенство треугольника 2" />
         <item itemvalue="Python.квадратное уравнение — копия" />
+=======
+        <item itemvalue="Python.Факториал" />
+        <item itemvalue="Python.Простые числа до 1000" />
+        <item itemvalue="Python.Простое число" />
+        <item itemvalue="Python.неравенство треугольника" />
+        <item itemvalue="Python.неравенство треугольника 2" />
+>>>>>>> cd4ea719d235bf49c7f2f957a43fb0f115c6448a
       </list>
     </recent_temporary>
   </component>
