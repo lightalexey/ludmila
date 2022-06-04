@@ -14,7 +14,7 @@ def game(h):
         return 'win'
     if any(game(m) == 'win' for m in move(h)):
         return 'P1'
-    if all(game(m) == 'P1' for m in move(h)): # поменять на any Для 18 задания, Ваня первым ходом при неудачном ходе Пети.
+    if all(game(m) == 'P1' for m in move(h)): # поменять на any Для 19 задания, Ваня первым ходом при неудачном ходе Пети.
         return 'V1'
     if any(game(m) == 'V1' for m in move(h)):
         return 'P2'
