@@ -5,3 +5,5 @@ while a>0:
         k+=1
     a//=3
 print(k)
+
+print(int('10000', 3))
